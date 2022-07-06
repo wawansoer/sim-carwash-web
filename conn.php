@@ -1,8 +1,8 @@
 <?php
-$server = "sql102.epizy.com";
-$user = "epiz_30534769";
-$pass = "loybJFdeF8ky9Jj";
-$db = "epiz_30534769_thahira_carwash";
+$server = "";
+$user = "";
+$pass = "";
+$db = "";
 
 date_default_timezone_set("Asia/Makassar");
 $waktuLengkap = date('Y-m-d G:i:s');
